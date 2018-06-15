@@ -1,6 +1,8 @@
 # NumPy to PyTorch Cheatsheet
 
-Just my scrappy cheat sheet for looking up thin
+Just my scrappy cheat sheet for looking up things in pytorch that I know in numpy - until I find a better cheatsheet. 
+
+Even though there are a lot of similarities in syntax between the two, occasionally something is different that throws me off. 
 
 ## Array creation
 
